@@ -1,5 +1,5 @@
 # rafiubay
-
+![flowchart](gambar flowchr.jpg)
 
 
 
